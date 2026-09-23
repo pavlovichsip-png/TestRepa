@@ -1,2 +1,6 @@
-public class Line {
+public class Line implements ILine{
+    @Override
+    public void drawLine() {
+        System.out.println("Рисует линию");
+    }
 }

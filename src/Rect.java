@@ -1,16 +1,4 @@
-public class Rect implements IDraw{
-    @Override
-    public void drawRect() {
+public class Rect{
+
 
     }
-
-    @Override
-    public void drawLine() {
-
-    }
-
-    @Override
-    public void drawCircle() {
-
-    }
-}
